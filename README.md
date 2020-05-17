@@ -1,2 +1,5 @@
 # lite-rpc
-Light weight RPC framework
+
+这是一个轻量级的RPC框架，开发中...
+
+This is a light weight framework of RPC, developing...
